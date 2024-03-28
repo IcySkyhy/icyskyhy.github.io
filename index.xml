@@ -6,7 +6,21 @@
     <description>Recent content on HYsite for Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 08:28:35 +0800</lastBuildDate>
     <atom:link href="https://icyskyhy.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://icyskyhy.github.io.git/post/hello/</link>
+      <pubDate>Tue, 26 Mar 2024 08:28:35 +0800</pubDate>
+      <guid>https://icyskyhy.github.io.git/post/hello/</guid>
+      <description>HELLO WORLD!</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://icyskyhy.github.io.git/about/</link>
+      <pubDate>Tue, 26 Mar 2024 08:23:52 +0800</pubDate>
+      <guid>https://icyskyhy.github.io.git/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
