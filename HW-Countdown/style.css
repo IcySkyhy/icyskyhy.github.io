@@ -4,13 +4,13 @@ body {
   margin-top: 50px;
 }
 #timer {
-font-size: 15em;
+font-size: 1200%;
 font-weight: bold;
 font-family: "Comic Sans MS", "Comic Sans", cursive;
 margin: 20px;
 }
 button {
-padding: 18px 36px;
+padding: 16px 32px;
 margin: 30px;
 font-size: 3em;
 }
